@@ -41,11 +41,6 @@ class Taskdeleteview(DeleteView):
     success_url = reverse_lazy('cbvindex')
     
     
-    
-
-
-
-# comment
 
 
 
